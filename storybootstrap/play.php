@@ -9,8 +9,7 @@
 		<title>Soloäventyr</title>
 	<link href="https://fonts.googleapis.com/css?family=Merriweather%7CMerriweather+Sans" rel="stylesheet"> 
 	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="style.css">
-	</style>	
+	<link rel="stylesheet" href="style.css">	
 </head>
 <body>
 	<main class="content">
@@ -46,6 +45,7 @@
 	echo "<div class='container'>
 		  <div class='row'>
 		    <div class='col bredcolumn' id='maincol'>" . $row['text'] . "</div>
+		  </div>
 		  </div>";
 
 

@@ -9,8 +9,7 @@
 		<title>Soloäventyr</title>
 	<link href="https://fonts.googleapis.com/css?family=Merriweather%7CMerriweather+Sans" rel="stylesheet"> 
 	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="style.css">
-	</style>	
+	<link rel="stylesheet" href="style.css">	
 </head>
 <body>
 	<main class="content">
@@ -31,8 +30,6 @@
 		    </div>
 		  </div>
 		</div>
-
-
 	</main>
 	<script src="js/jquery-3.3.1.slim.min.js"></script>
     <script src="js/popper.min.js"></script>

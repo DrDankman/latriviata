@@ -10,7 +10,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Merriweather%7CMerriweather+Sans" rel="stylesheet"> 
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="style.css">
-	</style>	
 </head>
 <body>
 	<main class="content">
@@ -25,12 +24,12 @@
 
 		<form method="POST" accept-charset="utf-8">
 		  <div class="form-group">
-		    <label for="exampleInputEmail1">Text:</label>
-		    <input type="text" class="form-control" id="exampleInputText1" placeholder="">
+		    <label>Text:</label>
+		    <input type="text" class="form-control" placeholder="">
 		  </div>
 		  <div class="form-group">
-		    <label for="exampleInputPassword1">Plats:</label>
-		    <input type="text" class="form-control" id="exampleInputText1" placeholder="">
+		    <label>Plats:</label>
+		    <input type="text" class="form-control" placeholder="">
 		  </div>
 		  <button type="submit" class="btn btn-primary">Skicka</button>
 		</form>
