@@ -23,21 +23,16 @@
 			</nav>
 		</div>
 
-		<form action="" method="POST" accept-charset="utf-8">
-			<fieldset>
-				<legend></legend>
-				<p>
-					<label for="text">Text: </label>
-					<input type="text" name="text" id="text">
-				</p>
-				<p>
-					<label for="place">Place: </label>
-					<input type="text" name="place" id="place">
-				</p>
-				<p>
-					<input type="submit" name="submit" id="submit" value="Skicka">
-				</p>
-			</fieldset>
+		<form method="POST" accept-charset="utf-8">
+		  <div class="form-group">
+		    <label for="exampleInputEmail1">Text:</label>
+		    <input type="text" class="form-control" id="exampleInputText1" placeholder="">
+		  </div>
+		  <div class="form-group">
+		    <label for="exampleInputPassword1">Plats:</label>
+		    <input type="text" class="form-control" id="exampleInputText1" placeholder="">
+		  </div>
+		  <button type="submit" class="btn btn-primary">Skicka</button>
 		</form>
 
 <?php
