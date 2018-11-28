@@ -1,0 +1,35 @@
+.ikon {
+	display: block;
+	margin-left: 500%;
+	width: 50%;
+}
+.bredcolumn {
+	background-color: #5998ff;
+	border-radius: 20px;
+	margin: 4%;
+	height: 10em;
+	border: 4px solid #225bb7;
+	text-align: center;
+	padding: 3%;
+	font-size: 1.5em;
+}
+#maincol {
+	border: 4px solid black;
+}
+body {
+	background-color: #84ff9d;
+	overflow-x: hidden;
+}
+.alternativ {
+	color: black;
+}
+.alternativ:hover {
+	color: black;
+}
+.editdiv {
+	background-color: #5998ff;
+	border-radius: 20px;
+	border: 4px solid #225bb7;
+	padding: 1%;
+	font-size: 1.5em;
+}
