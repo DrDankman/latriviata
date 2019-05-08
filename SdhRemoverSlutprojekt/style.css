@@ -1,0 +1,32 @@
+body {
+	background-color: #272F3D;
+}
+.loggadiv {
+	margin-top: 3%;
+	text-align: center;
+}
+.searchdiv {
+	text-align: center;
+	margin-top: 3%;
+}
+.howitworksdiv {
+	text-align: center;
+	margin-top: 3%;
+}
+.howitworkstext {
+	color: #645D87;
+	text-decoration: underline #645D87;
+}
+input[type=text], select {
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+p {
+	font-family: 'Lekton', sans-serif;
+	font-size: 1.5em;
+}
